@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\шиба\source\repos\laba 17\laba 17\point.h(21): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+  laba 17.vcxproj -> C:\Users\Шиба\source\repos\laba 17\Debug\laba 17.exe
+  laba 17.vcxproj -> C:\Users\Шиба\source\repos\laba 17\Debug\laba 17.pdb (Partial PDB)
